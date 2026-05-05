@@ -15,3 +15,7 @@ This repository tracks my daily coding execution in 2026.
 ## Rule
 This repo is an **execution log**, not a tutorial or portfolio.  
 Code may be rough. Progress and consistency matter more than polish.
+
+## 
+On my 40 day challege to master multiple skills with the help of claude since apr 27 2026. 
+Will report when the 40 days are done. 
